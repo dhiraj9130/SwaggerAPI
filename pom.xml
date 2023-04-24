@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nit</groupId>
-	<artifactId>SpringBootRestProj10-MiniProject01-CURDOperations</artifactId>
+	<artifactId>SpringBootRestProj12-MiniProject-SwaggerAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>SpringBootRestProj10-MiniProject01-CURDOperations</name>
+	<name>SpringBootRestProj12-MiniProject-SwaggerAPI</name>
 	<description>SpringDataJPA Application</description>
 	<properties>
 		<java.version>11</java.version>
